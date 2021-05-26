@@ -14,6 +14,6 @@ bre=input("We real sench update Metasploit? Yes/No : ")
 print("Answer give!")
 print("Установлено")
 print("Скачиваем основные логи утилиты")
-hui=("Для загрузки логов необходимо ваше разрешение! Нажмите Enter! : ")
+hui=input("Для загрузки логов необходимо ваше разрешение! Нажмите Enter! : ")
 print("Установлено!")
 
